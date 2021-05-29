@@ -16,7 +16,6 @@ while turns>=0:
         else:
             print('__')
             fail+=1
-        
     turns-=1
 
 
